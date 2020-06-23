@@ -1,0 +1,8 @@
+<p> Neste website temos como objetivo principal, indicar o número de horas de um certo jogo ou até mesmo o total de uma consola. Para isso, terá de se registar no nosso site.
+Somos jogadores desde crianças, tendo uma paixão enorme por videojogos e um respeito vasto por quem os faz. Portanto, deixa-nos explicar como funciona: </p>
+<p> Temos o "Home" que pura e simplesmente é a página principal do site. Nesta página encontrarás os jogos mais famosos, mais jogados, os que mais tempo foram gastos pelos jogadores e a respetiva consola ou até mesmo a base de dados em questão. </p>
+<p> A seguir temos os "Jogos". Nesta parte do site podes procurar os jogos da nossa base de dados, independentemente da sua versão (consolas ou computadores). </p>
+<p> E o contrário, as "Consolas". Aqui podes procurar as consolas da nossa base de dados e ver quais os jogos mais jogados e o seu tempo independentemente da sua versão da consola. </p>
+<p> Ficaste confuso? Simplesmente a aba "Jogos" mostra-te os jogos que foram mais jogados e o seu tempo independentemente da consola. Quanto á aba "Consolas" mostra-te os jogos que mais foram jogados dessa mesma consola que escolheste. </p>
+<p> O "Sobre nós..." só fala mesmo um pouco sobre nós e o que ver no nosso site, como estás a ler neste momento. </p>
+<p> Os "Contactos" são os nossos contactos caso pretendam falar connosco sobre qualquer coisa que, obviamente, tenha a haver com o site, como alguma dúvida ou algum erro que encontrem, ou até mesmo para melhorarmos o nosso serviço. </p>
